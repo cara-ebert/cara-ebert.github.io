@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cara Ebert</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="author" content="Cara Ebert">
+  <meta name="description" content="Cara Ebert">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+  /* body */
+  body {
+    background: linear-gradient(to left bottom, hsl(211, 100%, 88%) 0%, hsl(240, 100%, 85%) 100%);
+    background-attachment: fixed;
+  }
+  /* cover */
+  section.cover .cover-main {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 100px 30px 150px 30px;
+  }
+
+  section.cover img { 
+    border-radius: 50%; 
+    width: 250px;
+    height: 250px;
+    border: 1px solid #34495e;
+  }
+
+  /* do not display main page, just cover (but keep navbar) */
+  section.cover.show + main {
+    display: none;
+  }
+
+  /* content */
+  section.content {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-top: 100px;
+  }
+  article.markdown-section {
+    padding: 0 0 20px 0;
+  }
+  /* p */
+  .markdown-section p {
+    margin: 1rem 0;
+  }
+  /* nav bar */
+  .app-nav {
+    margin: 10px 0px 0 0;
+    left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+    width: 100%;
+  }
+
+  .app-nav a, section.cover .cover-main>p:last-child a {
+    border-radius: 1rem;
+    border: 1px solid #42b983;
+    border-color: var(--theme-color, #42b983);
+    box-sizing: border-box;
+    color: #42b983;
+    color: var(--theme-color, #42b983);
+    display: inline-block;
+    font-size: 0.9rem;
+    line-height: 1.1rem;
+    letter-spacing: .1rem;
+    margin: .25rem 0.5rem;
+    padding: .375em 0.75rem;
+    text-decoration: none;
+    transition: all .15s ease;
+  }
+
+  section.cover .cover-main>p:last-child a {
+    border-color: #34495e;
+    color: #34495e;
+  }
+
+  section.cover .cover-main>p:last-child a:last-child {
+    background-color: unset;
+    color: unset;
+  }
+
+  section.cover .cover-main>p:last-child a:hover, section.cover .cover-main>p:last-child a:active {
+    border-color: #34495e;
+    color: #c0deff;
+    background-color: #34495e;
+  }
+
+  .app-nav a.active {
+    background-color: var(--theme-color, #42b983);
+    color: #c0deff;
+  }
+
+  .app-nav a:hover, .app-nav a:active {
+    border-color: var(--theme-color, #42b983);
+    color: #c0deff;
+    background-color: var(--theme-color, #42b983);
+  }
+
+  .app-nav ul {
+    padding: 0;
+  }
+
+  .app-nav li {
+    margin: 0 0.25rem;
+  }
+
+  .app-nav.no-badge {
+    margin-right: 0px;
+  }
+
+  section.cover h1 {
+    margin: .625rem 0 1.5rem;
+  }
+
+  /* H1 */
+  .markdown-section h1.anchor:hover {
+    text-decoration: none;
+  }
+  /* H2 etc */
+  .markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5 {
+    margin: 0;
+    font-weight: 300;
+  }
+  .markdown-section h1 a, .markdown-section h2 a, .markdown-section h3 a, .markdown-section h4 a, .markdown-section h5 a {
+    font-weight: 300;
+  }
+  .markdown-section h1 {
+    font-size: 2.2rem;
+  }
+  .markdown-section h2 {
+    padding: 30px 0 0.8rem
+  }
+  .markdown-section h3 {
+    padding: 20px 0 0.6rem
+  }
+  .markdown-section h4 {
+    padding: 10px 0 0.4rem
+  }
+  /* figures */
+  figure {
+    width: 100%;
+    margin: 0 0 1rem 0;
+    padding: 0;
+  }
+  figcaption {
+    width: fit-content;
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 0.5rem;
+    opacity: 85%;
+    font-style: italic
+  }
+  p.fignote {
+    width: fit-content;
+    max-width: 80%;
+    margin: 0 auto;
+    font-size: 0.8rem;
+    line-height: 1rem;
+    opacity: 70%;
+  }
+  p.fignote::before {
+    content: "Note: ";
+  }
+  p + ul {
+    margin-top: -15px;
+  }
+  span.grant-amount {
+    color: #888888;
+    font-style: italic;
+  }
+  select {
+    background: none;
+    border: none;
+    color:#8b42b9;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  /* Tables */
+  /* table > thead:has(> tr > th:empty):not(:has(> tr > th:not(:empty))) {
+  display: none;
+  } */
+  .markdown-section td, .markdown-section th {
+    border: 0px;
+    padding: 4px 25px 4px 0px;
+  }
+  .markdown-section tr {
+    border: 0px;
+  }
+  .markdown-section table {
+    margin: 0.8rem 0;
+    line-height: 1.5rem;
+  }
+
+  tbody {
+    vertical-align: top;
+  }
+  .markdown-section tr:nth-child(2n) {
+    background-color: #ffffff;
+  }
+  .markdown-section ol, .markdown-section p, .markdown-section ul {
+    line-height: 1.5rem;
+    word-spacing: .05rem;
+  }
+
+  /* first col */
+  table.cv tr td:first-child {
+    white-space: nowrap;
+    font-weight: 600;
+  }
+
+  /* wider first col */
+  table.cv-fixed tr td:first-child {
+    min-width: 155px;
+    font-weight: 600;
+  }
+
+  /* small viewports: stack table cells */
+  @media only screen and (max-width: 600px) {
+    .markdown-section tr {
+      display: block;
+      margin-top: 0.7rem
+    }
+    .markdown-section tr:first-child {
+      margin-top: 0rem
+    }
+    .markdown-section td {
+      display: table-row;
+    }
+  }
+
+  /* print -> exclude intro, adjust padding */
+  @media print
+    {
+      .content {
+        padding-top: 0px;
+      }
+
+      body {
+        background-color: #ffffff;
+      }
+
+      body .content {
+        left: 0px !important;
+      }
+    }
+
+  </style>
+</head>
+<body>
+
+  <div id="app"></div>
+
+  <script>
+    window.$docsify = {
+        loadSidebar: false,
+        hideSidebar: true,
+        loadNavbar: true,
+        coverpage: true,
+        onlyCover: false,
+        subMaxLevel: 2,
+        themeColor: '#462bfb'
+    }
+  </script>
+
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- bash highlighting -->
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+
+  <!-- namespaces -->
+   <script src="https://unpkg.com/docsify-namespaced"></script>
+
+</body>
+</html>
