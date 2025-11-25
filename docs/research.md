@@ -35,7 +35,7 @@ Bogler L, Bommer C, Ebert C, Kumar A, Subramanian SV, Subramanyam MA & Vollmer S
 Ebert C & Vollmer S. (2022). Girls unwanted – The role of parents’ child-specific sex preference for children’s early mental development. Journal of Health Economics, Vol. 82, 102590.
 
 
-### Public Health (outside economics)
+### Global Health (outside economics)
 
 Geldsetzer P, Tisdale RL, Stehr L, et al. (2024). The prevalence of cardiovascular disease risk factors among adults living in extreme poverty. Nature Human Behaviour.
 
