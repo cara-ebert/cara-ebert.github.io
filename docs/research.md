@@ -2,22 +2,32 @@
 
 ## Ongoing projects 
 
-Ebert C, Heldring L, Robinson J A, & Vollmer S (2025). The breakdown of the English society of orders: The role of the Industrial Revolution. NBER Working Paper 34153.
+[The breakdown of the English society of orders: The role of the Industrial Revolution](https://doi.org/10.3386/w34153)<br>
+with Leander Heldring, James A. Robinson and Sebastian Vollmer<br>
+2025<br>
+**NBER Working Paper**, 34153<br>
 
-Beber B, Ebert C & Sievert M (2024). Is Irregular Migration Responsive to Recent German Asylum Policy Adjustments? . IZA DP No. 16850. 
+[Is Irregular Migration Responsive to Recent German Asylum Policy Adjustments?](https://www.iza.org/publications/dp/16850/is-intent-to-migrate-irregularly-responsive-to-recent-german-asylum-policy-adjustments)<br>
+with Bernd Beber and Maxi Sievert<br>
+2024<br>
+**IZA DP** No. 16850
 
 [The Senegal Migration Panel](https://www.rwi-essen.de/forschung-beratung/weitere/policy-lab-klimawandel-entwicklung-migration/forschungsprojekte/senegal-migration-panel-smp): 
-- Social capital after migration: Evidence from network data in 145 Senegalese villages. With Bernd Beber, Niklas Murken
-and Zara Riaz. _Working paper coming soon._
-- Improving migration outcomes: A mentoring experiment and its network effects in Senegal. With
-Bernd Beber, Zara Riaz and Juni Singh.
+- Social capital after migration: Evidence from network data in 145 Senegalese villages<br>
+with Bernd Beber, Niklas Murken and Zara Riaz<br>
+_Working paper coming soon._
+- Improving migration outcomes: A mentoring experiment and its network effects in Senegal<br>
+with Bernd Beber, Zara Riaz and Juni Singh.
 
 
 ## Journal publications 
 
 ### Migration
 
-Frohnweiler S, Beber B & Ebert C (2024). Information frictions, belief updating and internal migration: Evidence from Ghana and Uganda. Journal of Development Economics, Volume 171, 103311.
+[Information frictions, belief updating and internal migration: Evidence from Ghana and Uganda](https://doi.org/10.1016/j.jdeveco.2024.103311)<br>
+with Sarah Frohnweiler and Bernd Beber<br>
+2024<br>
+**Journal of Development Economics**, 171, 103311.
 
 Frohnweiler S, Beber B & Ebert C (2023). Delayed effects on migration intentions in an information provision experiment in Ghana. Revue d’´economie du d´eveloppement, 35, 3-4, 37-44.
 
