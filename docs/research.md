@@ -12,7 +12,7 @@ with Bernd Beber and Maxie Sievert<br>
 2024<br>
 **IZA DP** No. 16850
 
-[The Senegal migration panel](https://www.rwi-essen.de/forschung-beratung/weitere/policy-lab-klimawandel-entwicklung-migration/forschungsprojekte/senegal-migration-panel-smp): 
+[The Senegal Migration Panel](https://www.rwi-essen.de/forschung-beratung/weitere/policy-lab-klimawandel-entwicklung-migration/forschungsprojekte/senegal-migration-panel-smp): 
 - Social capital after migration: Evidence from network data in 145 Senegalese villages<br>
 with Bernd Beber, Niklas Murken and Zara Riaz<br>
 _Working paper coming soon._
@@ -32,7 +32,7 @@ with Sarah Frohnweiler and Bernd Beber<br>
 [Delayed effects on migration intentions in an information provision experiment in Ghana](https://www.cairn.info/revue-d-economie-du-developpement.htm)<br>
 with Sarah Frohnweiler and Bernd Beber<br>
 2023<br>
-**Revue d’´economie du d´eveloppement**, 35, 3-4, 37-44.
+**Revue d'economie du d'eveloppement**, 35, 3-4, 37-44.
 
 
 ### Gender and Health
@@ -95,27 +95,65 @@ with Felix Teufel, Jacqueline A. Seiglie, Pascal Geldsetzer, Michaela Theilmann,
 2021<br>
 **The Lancet**, 398(10296), 238-248.
 
-Ebert C & Steinert JI (2021). Prevalence and Risk Factors of Violence Against Women And Children During COVID-19, Germany. Bulletin of the World Health Organization, 99(6): 429-438.
+[Prevalence and Risk Factors of Violence Against Women And Children During COVID-19, Germany](http://dx.doi.org/10.2471/BLT.20.270983)<br>
+with Janina I. Steinert<br>
+2021<br>
+**Bulletin of the World Health Organization**, 99(6): 429-438.
 
-Marcus ME, Ebert C, Geldsetzer P, et al. (2021) Unmet need for hypercholesterolemia care in 35 low- and middle-income countries: A cross-sectional study of nationally representative surveys. PLOS Medicine, 18(10), e1003841.
+[Unmet need for hypercholesterolemia care in 35 low- and middle-income countries: A cross-sectional study of nationally representative surveys](https://doi.org/10.1371/journal.pmed.1003841)<br>
+with Maja E. Marcus, Pascal Geldsetzer, Michaela Theilmann, Brice W. Bicaba, Glennis Andall-Brereton, Pascal Bovet et al. <br>
+2021<br>
+**PLOS Medicine**, 18(10), e1003841.
 
-Basu S, Flood D, Geldsetzer P, et al. (2021) Estimated effect of increased diagnosis, treatment, and control of diabetes and its associated cardiovascular risk factors among low-income and middle-income countries: a microsimulation model. The Lancet Global Health, 9(11), e1539-e1552.
+[Estimated effect of increased diagnosis, treatment, and control of diabetes and its associated cardiovascular risk factors among low-income and middle-income countries: a microsimulation model](https://doi.org/10.1016/S2214-109X(21)00340-5)<br>
+with Sanjay Basu, David Flood, Pascal Geldsetzer, Michaela Theilmann, Maya E. Marcus, Mary Mayige et al.<br>
+2021<br>
+**The Lancet Global Health**, 9(11), e1539-e1552.
 
-Kirschbaum TK, Theilmann M, Sudharsanan N, et al. (2021) Targeting Hypertension Screening in Low- and Middle-Income Countries: A Cross-Sectional Analysis of 1.2 Million Adults in 56 Countries. JAHA: Journal of the American Heart Association, 10(13): e021063.
+[Targeting Hypertension Screening in Low- and Middle-Income Countries: A Cross-Sectional Analysis of 1.2 Million Adults in 56 Countries](https://doi.org/10.1161/JAHA.121.021063)<br>
+with Tabea K. Kirschbaum, Michaela Theilmann, Nikkil Sudharsanan, Jennifer Manne-Goehler, Julia M. Lemp, Jan-Walter De Neve et al.<br>
+2021<br>
+**JAHA: Journal of the American Heart Association**, 10(13): e021063.
 
-Sudharsanan N, Theilmann M, Kirschbaum T, et al. (2021). Variation in the proportion of adults in need of BP-lowering medications by hypertension care guideline in low- and middle-income countries: a cross-sectional study of 1,037,215 individuals from 50 nationally representative surveys. Circulation, 143: 991–1001.
+[Variation in the proportion of adults in need of BP-lowering medications by hypertension care guideline in low- and middle-income countries: a cross-sectional study of 1,037,215 individuals from 50 nationally representative surveys](https://doi.org/10.1161/CIRCULATIONAHA.120.051620)<br>
+with Nikkil Sudharsanan, Michaela Theilmann, Tabeka K. Kirschbaum, Jennifer Manne-Goehler, Sina Azadnajafabad, Pascal Bovet et al.<br>
+2021<br>
+**Circulation**, 143: 991–1001.
 
-Teufel F, Geldsetzer P, Manne-Goehler J, et al. (2020). Analysis of Attained Height and Diabetes Among 554,122 Adults Across 25 Low- and Middle-Income Countries. Diabetes Care, 43 (10), 2403-2410. 27. Lemp JM, De Neve JW, Bussmann H, et al. (2020). Lifetime Prevalence of Cervical Cancer Screening in 55 Low- and Middle-Income Countries. JAMA: Journal of the American Medical Association, 324(15), 1532-1542.
+[Analysis of Attained Height and Diabetes Among 554,122 Adults Across 25 Low- and Middle-Income Countries](https://doi.org/10.2337/dc20-0019)<br>
+with Felix Teufel, Pascal Geldsetzer, Jennifer Manne-Goehler, Omar Karlsson, Viola Koncz, Andreas Deckert et al.<br>
+2020<br>
+**Diabetes Care**, 43 (10), 2403-2410. 27. 
 
-Davies J, Reddiar SK, Hirschhorn LR, et al. (2020). Association Between Country Preparedness Indicators and Quality Clinical Care for Cardiovascular Disease Risk Factors in 44 Lower and Middle Income Countries: A Multi-Country Analysis of Survey Data. PLOS Medicine, 17(11), e1003268.
+[Lifetime Prevalence of Cervical Cancer Screening in 55 Low- and Middle-Income Countries](https://jamanetwork.com/journals/jama/fullarticle/2771901)<br>
+with Julia M. Lemp, Jan-Walter De Neve, Hermann Bussmann, Simiao Chen, Jennifer Manne-Goehler, Michaela Theilmann et al.<br>
+2020<br>
+**JAMA: Journal of the American Medical Association**, 324(15), 1532-1542.
 
-Seiglie JA, Marcus ME, Ebert C, et al. (2020). Diabetes Prevalence and Its Relationship With Education, Wealth, and BMI in 29 Low-and Middle-Income Countries. Diabetes Care, 43(4), 767-775.
+[Association Between Country Preparedness Indicators and Quality Clinical Care for Cardiovascular Disease Risk Factors in 44 Lower and Middle Income Countries: A Multi-Country Analysis of Survey Data](v)<br>
+with Justine I. Davies, Sumithra K. Reddiar, Lisa R. Hirschhorn, Maja E. Marcus, Jacqueline A. Seiglie, Zhaxbay Zhumadilov et al.<br>
+2020<br>
+**PLOS Medicine**, 17(11), e1003268.
 
-Geldsetzer P, Manne-Goehler J, Marcus M, Ebert C, et al. (2019). The State of Hypertension Care in 44 Low- and Middle-Income Countries: A cross-sectional Study of Individual-level Nationally Representative Data from 1.1 million Adults. The Lancet, 394(10199), 652-662.
+[Diabetes Prevalence and Its Relationship With Education, Wealth, and BMI in 29 Low-and Middle-Income Countries](https://care.diabetesjournals.org/content/43/4/767.long)<br>
+with Jacqueline A. Seiglie, Maja E. Marcus, Nikolaos Prodromidis, Pascal Geldsetzer, Michaela Theilmann, Kokou Agoudavi et al.<br>
+2020<br>
+**Diabetes Care**, 43(4), 767-775.
 
-Manne-Goehler J, Geldsetzer P, Agoudavi K, et al. (2019). Health System Performance for People with Diabetes in 28 Low- and Middle-income Countries: A Cross-sectional Study of Nationally Representative Surveys. PLOS Medicine, 16(3): e1002751.
+[The State of Hypertension Care in 44 Low- and Middle-Income Countries: A cross-sectional Study of Individual-level Nationally Representative Data from 1.1 million Adults](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30955-9/fulltext)<br>
+with Pascal Geldsetzer, Jennifer Manne-Goehler, Maja E. Marcus, Zhaxbay Zhumadilov, Chea S. Wesseh, Lindiwe Tsabedze et al.<br>
+2019<br>
+**The Lancet**, 394(10199), 652-662.
 
-Baernighausen T, Oldenburg C, Tugwell P, et al. (2017). Quasi-experimental Study Designs Series: Assessing the Assumptions. Journal of Clinical Epidemiology, 89, 53-66.
+[Health System Performance for People with Diabetes in 28 Low- and Middle-income Countries: A Cross-sectional Study of Nationally Representative Surveys](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002751)<br>
+with Jennifer Manne-Goehler, Pascal Geldsetzer, Kokou Agoudavi, Glennis Andall-Brereton, Krishna K. Aryal, Brice W. Bibaca et al. <br>
+2019<br>
+**PLOS Medicine**, 16(3): e1002751.
+
+[Quasi-experimental Study Designs Series: Assessing the Assumptions](https://www.jclinepi.com/article/S0895-4356(17)30298-6/fulltext)<br>
+with Till Baernighausen, Catherine Oldenburg, Peter Tugwell, Christian Bommer, Mauricio Barreto, Eric Dijmeu et al.<br>
+2017<br>
+**Journal of Clinical Epidemiology**, 89, 53-66.
 
 
 ## Other publications
