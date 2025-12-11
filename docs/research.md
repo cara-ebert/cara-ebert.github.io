@@ -32,7 +32,7 @@ with Sarah Frohnweiler and Bernd Beber<br>
 [Delayed effects on migration intentions in an information provision experiment in Ghana](https://www.cairn.info/revue-d-economie-du-developpement.htm)<br>
 with Sarah Frohnweiler and Bernd Beber<br>
 2023<br>
-**Revue d'economie du d'eveloppement**, 35, 3-4, 37-44.
+**Revue d'économie du développement**, 35, 3-4, 37-44.
 
 
 ### Gender and Health
@@ -45,7 +45,7 @@ with Stephan Klasen and Sebastian Vollmer<br>
 [Violence against women and the substitution of help services in times of lockdown: Triangulation of three data sources in Germany](https://doi.org/10.1016/j.jebo.2024.106879)<br>
 with Janina I. Steinert<br>
 2025<br>
-**Journal of Economic Behavior and Organization**, 232, 106879.
+**Journal of Economic Behavior & Organization**, 232, 106879.
 
 [Two scalable interventions to promote health and mental development in early childhood: A randomized controlled trial in rural India](https://www.journals.uchicago.edu/doi/10.1086/729064)<br>
 with Esther Heesemann and Sebastian Vollmer<br>
@@ -66,7 +66,7 @@ with Sebastian Vollmer<br>
 ### Global Health (outside Economics)
 
 [The prevalence of cardiovascular disease risk factors among adults living in extreme poverty](https://doi.org/10.1038/s41562-024-01840-9)<br>
-with Pascal Geldsetzer, Rebecca L. Tisdale, Lisa Stehr, Felix Michalik, Julia Lemp, Krishna K. Aryal et al.<br>
+with Pascal Geldsetzer, Rebecca L. Tisdale, Lisa Stehr, Felix Michalik, Julia M. Lemp, Krishna K. Aryal et al.<br>
 2024<br>
 **Nature Human Behaviour**
 
@@ -81,12 +81,12 @@ with Jennifer Manne-Goehler, Michaela Theilmann, David Flood, Maja E. Marcus, Gl
 **International Journal of Epidemiology**, e337–e349.
 
 [How to ensure full vaccination? The association of institutional delivery and timely postnatal care with childhood vaccination in a cross-sectional study in rural Bihar, India](https://doi.org/10.1371/journal.pgph.0000411)<br>
-with Mareike Schön, Esther Heesemann, Malavika Subramanyam, Sebastian Vollmer, Sebastian Horn<br>
+with Mareike Schön, Esther Heesemann, Malavika A. Subramanyam, Sebastian Vollmer, Sebastian Horn<br>
 2022<br>
 **PLOS Global Public Health**, 2(5): e0000411.
 
-[The association of socioeconomic status with hy-pertension in 76 low- and middle- income countries](https://doi.org/10.1016/j.jacc.2022.05.044)<br>
-with Tabea Kirschbaum, Nikkil Sudharsanan, Jennifer Manne-Goehler, Jan-Walter De Neve, Julia M. Lemp, Michaela Theilmann et al.<br>
+[The association of socioeconomic status with hy-pertension in 76 low- and middle-income countries](https://doi.org/10.1016/j.jacc.2022.05.044)<br>
+with Tabea K. Kirschbaum, Nikkil Sudharsanan, Jennifer Manne-Goehler, Jan-Walter De Neve, Julia M. Lemp, Michaela Theilmann et al.<br>
 2022<br>
 **Journal of the American College of Cardiology**, 80(3): 804-817.
 
@@ -106,7 +106,7 @@ with Maja E. Marcus, Pascal Geldsetzer, Michaela Theilmann, Brice W. Bicaba, Gle
 **PLOS Medicine**, 18(10), e1003841.
 
 [Estimated effect of increased diagnosis, treatment, and control of diabetes and its associated cardiovascular risk factors among low-income and middle-income countries: A microsimulation model](https://doi.org/10.1016/S2214-109X(21)00340-5)<br>
-with Sanjay Basu, David Flood, Pascal Geldsetzer, Michaela Theilmann, Maya E. Marcus, Mary Mayige et al.<br>
+with Sanjay Basu, David Flood, Pascal Geldsetzer, Michaela Theilmann, Maja E. Marcus, Mary Mayige et al.<br>
 2021<br>
 **The Lancet Global Health**, 9(11), e1539-e1552.
 
@@ -116,7 +116,7 @@ with Tabea K. Kirschbaum, Michaela Theilmann, Nikkil Sudharsanan, Jennifer Manne
 **JAHA: Journal of the American Heart Association**, 10(13): e021063.
 
 [Variation in the proportion of adults in need of BP-lowering medications by hypertension care guideline in low- and middle-income countries: A cross-sectional study of 1,037,215 individuals from 50 nationally representative surveys](https://doi.org/10.1161/CIRCULATIONAHA.120.051620)<br>
-with Nikkil Sudharsanan, Michaela Theilmann, Tabeka K. Kirschbaum, Jennifer Manne-Goehler, Sina Azadnajafabad, Pascal Bovet et al.<br>
+with Nikkil Sudharsanan, Michaela Theilmann, Tabea K. Kirschbaum, Jennifer Manne-Goehler, Sina Azadnajafabad, Pascal Bovet et al.<br>
 2021<br>
 **Circulation**, 143: 991–1001.
 
@@ -130,7 +130,7 @@ with Julia M. Lemp, Jan-Walter De Neve, Hermann Bussmann, Simiao Chen, Jennifer 
 2020<br>
 **JAMA: Journal of the American Medical Association**, 324(15), 1532-1542.
 
-[Association between country preparedness indicators and quality clinical care for cardiovascular disease risk factors in 44 lower and middle income countries: A multi-country analysis of survey data](v)<br>
+[Association between country preparedness indicators and quality clinical care for cardiovascular disease risk factors in 44 lower and middle income countries: A multi-country analysis of survey data](https://doi.org/10.1371/journal.pmed.1003268)<br>
 with Justine I. Davies, Sumithra K. Reddiar, Lisa R. Hirschhorn, Maja E. Marcus, Jacqueline A. Seiglie, Zhaxbay Zhumadilov et al.<br>
 2020<br>
 **PLOS Medicine**, 17(11), e1003268.
@@ -146,7 +146,7 @@ with Pascal Geldsetzer, Jennifer Manne-Goehler, Maja E. Marcus, Zhaxbay Zhumadil
 **The Lancet**, 394(10199), 652-662.
 
 [Health system performance for people with diabetes in 28 low- and middle-income countries: A cross-sectional study of nationally representative surveys](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002751)<br>
-with Jennifer Manne-Goehler, Pascal Geldsetzer, Kokou Agoudavi, Glennis Andall-Brereton, Krishna K. Aryal, Brice W. Bibaca et al. <br>
+with Jennifer Manne-Goehler, Pascal Geldsetzer, Kokou Agoudavi, Glennis Andall-Brereton, Krishna K. Aryal, Brice W. Bicaba et al. <br>
 2019<br>
 **PLOS Medicine**, 16(3): e1002751.
 
@@ -179,7 +179,7 @@ with Cornelia Betsch, Lars Korn, Lisa Felgendreff, Sarah Eitze, Philipp Sprengho
 **PsychArchives**
 
 [Impact of the Gram Varta programme on health, nutrition and women’s empowerment in India. 3ie Grantee Final Report](https://www.3ieimpact.org/sites/default/files/2018-08/Grantee%20Final%20Report%20CPW.01.pdf)<br>
-with Malavika Subramanyam, Christian Brommer, Lisa Bogler, Abhijeet Kumar, Sini Varghese, Sagar Atre, Sebastian Vollmer <br>
+with Malavika A. Subramanyam, Christian Bommer, Lisa Bogler, Abhijeet Kumar, Sini Varghese, Sagar Atre, Sebastian Vollmer <br>
 2017<br>
 **International Initiative for Impact Evaluation (3ie)**. New Delhi.
 
