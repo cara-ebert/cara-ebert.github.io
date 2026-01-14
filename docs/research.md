@@ -10,14 +10,20 @@ with Leander Heldring, James A. Robinson and Sebastian Vollmer<br>
 [Is irregular migration responsive to recent German asylum policy adjustments?](https://www.iza.org/publications/dp/16850/is-intent-to-migrate-irregularly-responsive-to-recent-german-asylum-policy-adjustments)<br>
 with Bernd Beber and Maxie Sievert<br>
 2024<br>
-**IZA DP** No. 16850
+**IZA DP** No. 16850<br>
+_Revise and resubmit at World Development._
 
 [The Senegal Migration Panel](https://www.rwi-essen.de/forschung-beratung/weitere/policy-lab-klimawandel-entwicklung-migration/forschungsprojekte/senegal-migration-panel-smp): 
-- Social capital after migration: Evidence from network data in 145 Senegalese villages<br>
+- How migration shapes local networks: Evidence from 145 Senegalese villages<br>
 with Bernd Beber, Niklas Murken and Zara Riaz<br>
-_Working paper coming soon._
+_Revise and resubmit at World Bank Economic Review._
 - Improving migration outcomes: A mentoring experiment and its network effects in Senegal<br>
 with Bernd Beber, Zara Riaz and Juni Singh.
+
+[Gender, birth order, and child growth: Evidence from Central Asia](https://www.mgt.tum.de/fileadmin/mgt.tum.de/faculty_and_research/mppe/46_Son_preference_in_Central_Asia_fv.pdf)<br>
+with Manzura Jumaniyazova and Janina I Steinert<br>
+2026<br>
+**Munich Papers in Political Economy** No. 01/2026<br>
 
 
 ## Journal publications 
