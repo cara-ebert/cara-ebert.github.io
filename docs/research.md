@@ -11,12 +11,12 @@ with Leander Heldring, James A. Robinson and Sebastian Vollmer<br>
 with Bernd Beber and Maxie Sievert<br>
 2024<br>
 **IZA DP** No. 16850<br>
-_Revise and resubmit at World Development._
+_Accepted at World Development._
 
 [The Senegal Migration Panel](https://www.rwi-essen.de/forschung-beratung/weitere/policy-lab-klimawandel-entwicklung-migration/forschungsprojekte/senegal-migration-panel-smp): 
 - How migration shapes local networks: Evidence from 145 Senegalese villages<br>
 with Bernd Beber, Niklas Murken and Zara Riaz<br>
-_Revise and resubmit at World Bank Economic Review._
+_R&R at World Bank Economic Review._
 - Improving migration outcomes: A mentoring experiment and its network effects in Senegal<br>
 with Bernd Beber, Zara Riaz and Juni Singh.
 
