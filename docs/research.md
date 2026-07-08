@@ -7,18 +7,11 @@ with Leander Heldring, James A. Robinson and Sebastian Vollmer<br>
 2025<br>
 **NBER Working Paper**, 34153<br>
 
-[Is irregular migration responsive to recent German asylum policy adjustments?](https://www.iza.org/publications/dp/16850/is-intent-to-migrate-irregularly-responsive-to-recent-german-asylum-policy-adjustments)<br>
-with Bernd Beber and Maxie Sievert<br>
-2024<br>
-**IZA DP** No. 16850<br>
-_Accepted at World Development._
-
 [The Senegal Migration Panel](https://www.rwi-essen.de/forschung-beratung/weitere/policy-lab-klimawandel-entwicklung-migration/forschungsprojekte/senegal-migration-panel-smp): 
-- How migration shapes local networks: Evidence from 145 Senegalese villages<br>
-with Bernd Beber, Niklas Murken and Zara Riaz<br>
-_R&R at World Bank Economic Review._
 - Improving migration outcomes: A mentoring experiment and its network effects in Senegal<br>
 with Bernd Beber, Zara Riaz and Juni Singh.
+- Following friends? Individual migration network effects in rural Senegal<br>
+with Bernd Beber, Niklas Murken and Jasper Tjaden.
 
 [Gender, birth order, and child growth: Evidence from Central Asia](https://www.mgt.tum.de/fileadmin/mgt.tum.de/faculty_and_research/mppe/46_Son_preference_in_Central_Asia_fv.pdf)<br>
 with Manzura Jumaniyazova and Janina I Steinert<br>
@@ -29,6 +22,16 @@ with Manzura Jumaniyazova and Janina I Steinert<br>
 ## Journal publications 
 
 ### Migration
+
+[Migration and social connections: Evidence from 145 Senegalese villages](https://www.rwi-essen.de/fileadmin/user_upload/RWI/Publikationen/Ruhr_Economic_Papers/REP_26_1198.pdf)<br>
+with Bernd Beber, Niklas Murken and Zara Riaz<br>
+2026<br>
+**World Bank Economic Review**, accepted.
+
+[Is irregular migration responsive to recent German asylum policy adjustments?](https://www.iza.org/publications/dp/16850/is-intent-to-migrate-irregularly-responsive-to-recent-german-asylum-policy-adjustments)<br>
+with Bernd Beber and Maxie Sievert<br>
+2026<br>
+**World Development**, forthcoming.
 
 [Information frictions, belief updating and internal migration: Evidence from Ghana and Uganda](https://doi.org/10.1016/j.jdeveco.2024.103311)<br>
 with Sarah Frohnweiler and Bernd Beber<br>
