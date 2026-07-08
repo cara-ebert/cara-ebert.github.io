@@ -10,7 +10,7 @@ with Leander Heldring, James A. Robinson and Sebastian Vollmer<br>
 [The Senegal Migration Panel](https://www.rwi-essen.de/forschung-beratung/weitere/policy-lab-klimawandel-entwicklung-migration/forschungsprojekte/senegal-migration-panel-smp): 
 - Improving migration outcomes: A mentoring experiment and its network effects in Senegal<br>
 with Bernd Beber, Zara Riaz and Juni Singh.
-- Following friends? Individual migration network effects in rural Senegal<br>
+- Following friends? Individual-level migration network effects in rural Senegal<br>
 with Bernd Beber, Niklas Murken and Jasper Tjaden.
 
 [Gender, birth order, and child growth: Evidence from Central Asia](https://www.mgt.tum.de/fileadmin/mgt.tum.de/faculty_and_research/mppe/46_Son_preference_in_Central_Asia_fv.pdf)<br>
