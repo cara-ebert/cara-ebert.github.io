@@ -28,10 +28,10 @@ with Bernd Beber, Niklas Murken and Zara Riaz<br>
 2026<br>
 **World Bank Economic Review**, accepted.
 
-[Is irregular migration responsive to recent German asylum policy adjustments?](https://www.iza.org/publications/dp/16850/is-intent-to-migrate-irregularly-responsive-to-recent-german-asylum-policy-adjustments)<br>
+[Is irregular migration responsive to recent German asylum policy adjustments?](https://doi.org/10.1016/j.worlddev.2026.107478)<br>
 with Bernd Beber and Maxie Sievert<br>
 2026<br>
-**World Development**, forthcoming.
+**World Development**, 207, 107478.
 
 [Information frictions, belief updating and internal migration: Evidence from Ghana and Uganda](https://doi.org/10.1016/j.jdeveco.2024.103311)<br>
 with Sarah Frohnweiler and Bernd Beber<br>
