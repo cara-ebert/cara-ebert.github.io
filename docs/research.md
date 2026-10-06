@@ -26,7 +26,7 @@ with Manzura Jumaniyazova and Janina I Steinert<br>
 [Migration and social connections: Evidence from 145 Senegalese villages](https://www.rwi-essen.de/fileadmin/user_upload/RWI/Publikationen/Ruhr_Economic_Papers/REP_26_1198.pdf)<br>
 with Bernd Beber, Niklas Murken and Zara Riaz<br>
 2026<br>
-**World Bank Economic Review**, accepted.
+**World Bank Economic Review**, forthcoming.
 
 [Is irregular migration responsive to recent German asylum policy adjustments?](https://doi.org/10.1016/j.worlddev.2026.107478)<br>
 with Bernd Beber and Maxie Sievert<br>
